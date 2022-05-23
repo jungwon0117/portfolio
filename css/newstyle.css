@@ -1,0 +1,14 @@
+section#portfolio {
+    background-color:#212529;
+        background-color: #212529;
+    background-image: url(../assets/img/map-image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+section#portfolio h2,h4 {
+    color:#fff;
+}
+.bg-t {
+    background-color:transparent!important;
+    color:#fff;
+}
